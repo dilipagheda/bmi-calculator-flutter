@@ -20,4 +20,6 @@ This app is a Body Mass Index Calculator inspired by the beautiful designs made 
 - Understand the difference between const and final in Dart and when to use each.
 
 ## Screenshots
-![Alt text](/screenshots/screen1.png "Optional title")
+<div align="center">
+    <img src="/screenshots/screen1.png" width="400px"</img> 
+</div>
