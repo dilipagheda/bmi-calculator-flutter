@@ -129,7 +129,7 @@ class _InputPageState extends State<InputPage> {
                         content: Column(
                           children: <Widget>[
                             Padding(
-                              padding: const EdgeInsets.all(8.0),
+                              padding: const EdgeInsets.fromLTRB(0, 8.0, 0, 0),
                               child: Text(
                                 "WEIGHT",
                                 style: kLabelStyle,
@@ -170,7 +170,7 @@ class _InputPageState extends State<InputPage> {
                         content: Column(
                           children: <Widget>[
                             Padding(
-                              padding: const EdgeInsets.all(8.0),
+                              padding: const EdgeInsets.fromLTRB(0, 8.0, 0, 0),
                               child: Text(
                                 "AGE",
                                 style: kLabelStyle,

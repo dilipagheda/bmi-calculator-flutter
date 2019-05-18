@@ -12,7 +12,7 @@ class ReusableCard extends StatelessWidget {
       onTap: tapHandler,
       child: Container(
         child: content,
-        height: 200,
+        height: double.infinity,
         margin: EdgeInsets.all(15),
         decoration: BoxDecoration(
           color: cardColor,

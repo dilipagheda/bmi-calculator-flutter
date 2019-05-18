@@ -2,9 +2,15 @@
 
 ## About Project
 
-The objective of this project is to learn how to customise Flutter Widgets to achieve a beautiful user interface designs. 
+The objective of this project is to learn how to customise Flutter Widgets to achieve a beautiful user interface designs and also use of Flutter to build for both iOS and Android. 
 
 This app is a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. Starter files were provided by London Appbrewery and app is built on top of that.
+
+## Technology
+
+- Flutter
+- Dart
+- Third party library - Font Awesome
 
 ## Skills gained
 
