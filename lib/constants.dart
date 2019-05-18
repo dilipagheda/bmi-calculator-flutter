@@ -22,7 +22,7 @@ const kButtonTextStyle = TextStyle(
 );
 
 const kHeaderStyle = TextStyle(
-  color: Colors.pink,
+  color: Colors.black,
   fontSize: 50,
   fontWeight: FontWeight.bold,
 );
