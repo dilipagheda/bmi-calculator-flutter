@@ -21,7 +21,7 @@ This app is a Body Mass Index Calculator inspired by the beautiful designs made 
 
 ## Screenshots
 <div align="center">
-    <img src="/screenshots/screen1.png" width="300px"</img> 
-        <img src="/screenshots/screen2.png" width="300px"</img> 
+    <img src="/screenshots/screen1.png" height="600px" width="300px"</img> 
+        <img src="/screenshots/screen2.png" height="600px" width="300px"</img> 
 
 </div>
