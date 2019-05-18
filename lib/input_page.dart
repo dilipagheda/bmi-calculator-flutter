@@ -2,7 +2,6 @@ import 'package:bmi_calculator/action_button.dart';
 import 'package:bmi_calculator/reusable_card.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
 import 'RoundIconButton.dart';
 import 'constants.dart';
 import 'gender_card_content.dart';
@@ -207,7 +206,14 @@ class _InputPageState extends State<InputPage> {
                   ],
                 ),
               ),
-              ActionButton(caption: "CALCULATE")
+              ActionButton(
+                caption: "CALCULATE",
+                action: (bmi) {
+                  Navigator.pushNamed(context, '/result', arguments: bmi);
+                },
+                height: height,
+                weight: weight,
+              )
             ],
           ),
         ));
